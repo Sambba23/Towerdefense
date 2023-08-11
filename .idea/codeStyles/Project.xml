@@ -1,0 +1,57 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="OTHER_INDENT_OPTIONS">
+      <value>
+        <option name="INDENT_SIZE" value="2" />
+        <option name="TAB_SIZE" value="2" />
+      </value>
+    </option>
+    <ScalaCodeStyleSettings>
+      <option name="alwaysUsedImports">
+        <array>
+          <option value="All.Game.components.components" />
+          <option value="Game._" />
+          <option value="gui._" />
+          <option value="java.awt.BasicStroke" />
+          <option value="java.awt.Color" />
+          <option value="java.awt.Graphics" />
+          <option value="java.awt.Graphics2D" />
+          <option value="java.awt.geom._" />
+          <option value="java.awt.image.BufferedImage" />
+          <option value="java.io.io" />
+          <option value="java.util.util" />
+          <option value="javafx.animation.AnimationTimer" />
+          <option value="javafx.stage.Stage" />
+          <option value="javax.sound.sampled._" />
+          <option value="javax.swing.ImageIcon" />
+          <option value="o1._" />
+          <option value="scala.collection.mutable.Buffer" />
+          <option value="scala.collection.mutable.mutable" />
+          <option value="scala.reflect.internal.NoPhase.assignsFields.&amp;&amp;" />
+          <option value="scala.swing._" />
+          <option value="scala.swing.event.MouseDragged.apply" />
+          <option value="scala.swing.event.event" />
+          <option value="scalafx.Includes._" />
+          <option value="scalafx.application.JFXApp" />
+          <option value="scalafx.application.JFXApp3" />
+          <option value="scalafx.geometry.Insets" />
+          <option value="scalafx.scene.Scene" />
+          <option value="scalafx.scene.control.Button" />
+          <option value="scalafx.scene.control.Menu" />
+          <option value="scalafx.scene.control.MenuBar" />
+          <option value="scalafx.scene.control.MenuItem" />
+          <option value="scalafx.scene.effect.DropShadow" />
+          <option value="scalafx.scene.image._" />
+          <option value="scalafx.scene.input.MouseEvent" />
+          <option value="scalafx.scene.input._" />
+          <option value="scalafx.scene.layout.HBox" />
+          <option value="scalafx.scene.paint.Color._" />
+          <option value="scalafx.scene.paint._" />
+          <option value="scalafx.scene.shape.Rectangle" />
+          <option value="scalafx.scene.shape._" />
+          <option value="scalafx.scene.text.Text" />
+        </array>
+      </option>
+    </ScalaCodeStyleSettings>
+  </code_scheme>
+</component>

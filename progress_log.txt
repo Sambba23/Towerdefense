@@ -1,0 +1,43 @@
+Työtunnit yhteensä: noin 45h
+
+Tähän mennessä tehty:
+-yksinkertainen käyttöliittymä
+-gameState luokan alkupiirteet
+-Balloon luokan alkupiirteet
+-pallo näytöllä
+-polun keskikohta merkitty
+-Bullet luokka tehty
+-Constants luokka tehty
+-Pelin miniversio on nyt valmis
+-polun reunojen määrittäminen,
+-peli objectien piirtäminen näytölle luokan game kautta
+-uusien tornien lisääminen nappulan kautta (uudet tornit eivät vielä ammu)
+-pallo häviää, kun siihen osuu luoti
+-uudet tornit ampuvat
+-pallot hävivät vain jos sitä ampuu saman värinen torni
+-pelin "statsit" näkyvät näytöllä
+-peli loppuu jos palloja pääsee radan läpi
+-pelin voi aloittaa alusta sulkematta appia
+-pallojen päästessä radan läpi näkyy se myös graaffisesti
+-pelin grafiikat muuttuvat muuttujan health mukaisesti
+-peli tallentaa pelaajan tuloksen kun peli päättyy
+-tuloksia voi lukea menun kautta kohdasta Leaderboards
+-Pelaaja voi tehdä oman tason menun kautta kohdasta Make a Map
+-Peli tallentaa vain "Basic mapin" tulokset leaderboardeihin, ei omien mappien tuloksia
+-Pelaaja voi tallentaa custom mappeja ja pelata niitä
+
+
+Ongelmia esiintynyt:
+-Käyttöliittymän (Swing) kanssa
+-Pallojen saaminen näytölle
+-polun reunojen määrittämisessä
+-versionhallinnassa (pullasin ennen committausta ja palikat menivät sekaisin)
+-useiden pallojen, tornien sekä luotien käsittelyssä
+-uusien ikkunoiden luomisessa näytölle
+-oman mapin yhdistäminen muuhun peliin
+
+Tällä hetkellä työn alla:
+-
+
+Aikataulu:
+ajallaan
